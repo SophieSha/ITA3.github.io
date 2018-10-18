@@ -35,6 +35,7 @@ body {
 
 ol, ul {
 	list-style: none;
+	color: black
 }
 
 blockquote, q {
@@ -111,7 +112,7 @@ input, select, textarea {
 	}
 
 	h1, h2,  h3, h4, h5, h6 {
-		font-weight: 300;
+		font-weight: bold;
 		color: #666;
 		line-height: 1.5em;
 	}
@@ -123,6 +124,7 @@ input, select, textarea {
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		color: inherit;
 		text-decoration: none;
+		font-weight: bold;
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
