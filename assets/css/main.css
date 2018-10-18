@@ -36,7 +36,7 @@ body {
 ol, ul {
 	list-style: none;
 	color: #000000
-	font-weight: 360;
+	font-weight: 320;
 }
 
 blockquote, q {
@@ -215,11 +215,11 @@ input, select, textarea {
 	p {
 		margin-bottom: 2em;
 		text-align: justify;
-		font-weight: 360;
+		font-weight: 320;
 		
 	ul, ol, dl, table {
 		margin-bottom: 2em;
-		font-weight: 360;
+		
   
 	}
 
