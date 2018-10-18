@@ -35,8 +35,6 @@ body {
 
 ol, ul {
 	list-style: none;
-	color: #000000
-	
 }
 
 blockquote, q {
@@ -109,23 +107,18 @@ input, select, textarea {
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #666;
+		color: #888;
 	}
 
-	h1, h2,  h3, h4, h5, h6 {
-		font-weight: bold;
+	h1, h2, h3, h4, h5, h6 {
+		font-weight: 300;
 		color: #666;
 		line-height: 1.5em;
 	}
 
-
-
-
-
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		color: inherit;
 		text-decoration: none;
-		font-weight: bold;
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
@@ -148,9 +141,6 @@ input, select, textarea {
 	h3 {
 		font-size: 1.5em;
 	}
-
-
-      
 
 	header {
 		margin: 0 0 2em 0;
@@ -212,13 +202,9 @@ input, select, textarea {
 		font-style: italic;
 	}
 
-		
-		
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
-		text-align: justify;
 	}
-
 
 	br.clear {
 		clear: both;
