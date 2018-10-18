@@ -212,12 +212,13 @@ input, select, textarea {
 		font-style: italic;
 	}
 
-	p, ul, ol, dl, table{
+		
+		
+	p, ul, ol, dl, table {
 		margin-bottom: 2em;
 		text-align: justify;
-		
-		
-	
+	}
+
 
 	br.clear {
 		clear: both;
