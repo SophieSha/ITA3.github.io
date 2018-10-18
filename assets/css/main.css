@@ -36,7 +36,7 @@ body {
 ol, ul {
 	list-style: none;
 	color: #000000
-	font-weight: 500;
+	
 }
 
 blockquote, q {
@@ -216,6 +216,8 @@ input, select, textarea {
 		margin-bottom: 2em;
 		text-align: justify;
 		font-weight: 500;
+		font-size: 13.8pt;
+  
 	}
 
 	br.clear {
