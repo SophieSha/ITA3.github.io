@@ -110,11 +110,28 @@ input, select, textarea {
 		color: #666;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2 {
 		font-weight: 300;
 		color: #666;
 		line-height: 1.5em;
 	}
+
+
+
+
+        h3, h4, h5, h6 {
+		font-weight: 300;
+		color: darkblue;
+		line-height: 1.5em;
+	}
+
+        p {
+		color:black
+		
+        }
+
+
+
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		color: inherit;
@@ -141,6 +158,9 @@ input, select, textarea {
 	h3 {
 		font-size: 1.5em;
 	}
+
+
+      
 
 	header {
 		margin: 0 0 2em 0;
